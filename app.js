@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
-  console.log(`listening on port ${PORT}`);
+  console.log(`listeningg on port ${PORT}`);
 });
 
 
